@@ -2,7 +2,7 @@
 title: PytorchFakeTensor机制详解
 date: 2024-11-03 22:38:27 +0800
 categories: [源码分析, pytorch]
-tags: [FakeTensor，Pytorch，MLSys]     # TAG names should always be lowercase
+tags: [fakeTensor,pytorch,mlsys]     # TAG names should always be lowercase
 ---
 
 # PytorchFakeTensor机制详解

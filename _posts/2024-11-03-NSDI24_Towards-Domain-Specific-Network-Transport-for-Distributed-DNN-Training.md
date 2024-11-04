@@ -2,7 +2,7 @@
 title: NSDI24:Towards Domain-Specific Network Transport for Distributed DNN Training
 date: 2024-11-03 23:38:27 +0800
 categories: [论文笔记, NSDI]
-tags: [DNN，Protocol，ChenKai]     # TAG names should always be lowercase
+tags: [dnn,protocol,chenkai,mlsys]     # TAG names should always be lowercase
 ---
 
 # NSDI24:Towards Domain-Specific Network Transport for Distributed DNN Training
